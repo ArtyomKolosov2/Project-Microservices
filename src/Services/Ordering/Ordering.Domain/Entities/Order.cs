@@ -1,4 +1,6 @@
-﻿using Ordering.Domain.Common;
+﻿#nullable disable
+
+using Ordering.Domain.Common;
 
 namespace Ordering.Domain.Entities;
 
